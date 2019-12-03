@@ -13,6 +13,7 @@ Below are some key steps you can take to prepare for a design interview.
 - **Be prepared to discuss one to two of your strongest case studies**.
 - **Have your calendar open**, in case they want to schedule a follow-up phone call or interview on the spot.
 - **For in-person interviews**, take a laptop or iPad with your portfolio already loaded and give the “director’s cut” version of cases studies as additional context. In addition have a few copies of your business cards and resume to hand out, if needed, as they may want to have a few other people at the company look at your online portfolio
+- [Use this Design project presentation rubric](https://docs.google.com/document/d/1WSI4tufQNr2xmY26FD1d754KNOdmhsMoQw7evQNtf1Q/edit?usp=sharing) to prepare and practice in advance.
 
 **Likely Interview Questions**
 
